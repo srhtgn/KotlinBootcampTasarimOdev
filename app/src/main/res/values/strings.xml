@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PayPro</string>
+    <string name="uygulamaSlogani">experience the powerful payment method</string>
+    <string name="girisYapYazi">Sign In</string>
+    <string name="googleIleirisYapYazi">Continue with Google</string>
+    <string name="uyeDegilMisinizYazi">Don t have an account ? Sign Up</string>
+</resources>

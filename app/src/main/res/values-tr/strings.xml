@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayPro</string>
+    <string name="uygulamaSlogani">güçlü ödeme yöntemini deneyimleyin</string>
+    <string name="girisYapYazi">Giris Yap</string>
+    <string name="googleIleirisYapYazi">Google ile devam et</string>
+    <string name="uyeDegilMisinizYazi">Hesabınız yok mu ? Üye ol</string>
+</resources>
